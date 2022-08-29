@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Enzo Cazenave 👋 </h1>
+<h3 align="center">🚀 Backend Developer | Open Source ♥ | Competitive Programmer  🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-<!--
-**enzocazenave/enzocazenave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  - 🎓 &nbsp; Studying Computer Science and Engineering.
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+</div> 
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [enzocazenave](https://github.com/enzocazenave)
