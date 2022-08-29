@@ -9,7 +9,7 @@
   - 🌎 &nbsp; From Argentina.
   - 😎 &nbsp; 18 years old.
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-  - 🎓 &nbsp; Studying Computer Science and Engineering (Universidad Argentina de la Empresa).
+  - 🎓 &nbsp; Studying Computer Engineering (Universidad Argentina de la Empresa).
   - 📚 &nbsp; Always training and learning.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
