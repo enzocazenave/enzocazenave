@@ -5,10 +5,11 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
+  - 😎 &nbsp; From Argentina.
+  - 😎 &nbsp; 18 years old.
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 🎓 &nbsp; Studying Computer Science and Engineering (Universidad Argentina de la Empresa).
   - 📚 &nbsp; Always training and learning.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 </div> 
