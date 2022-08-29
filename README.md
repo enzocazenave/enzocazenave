@@ -5,7 +5,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
