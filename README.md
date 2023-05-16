@@ -15,5 +15,5 @@
 </div> 
 </div>
 
-📄 My [portfolio](https://enzocazenave.netlify.app)<br/>
+📄 My [portfolio](https://enzocazenave.com)<br/>
 ⭐️ From [enzocazenave](https://github.com/enzocazenave)
