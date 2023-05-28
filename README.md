@@ -11,7 +11,6 @@
   -  &nbsp; Studying Computer Engineering (Universidad Argentina de la Empresa).
   -  &nbsp; Always training and learning.
   -  &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  -  &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 </div> 
 </div>
 
