@@ -14,5 +14,7 @@
 </div> 
 </div>
 
+💼 My [Linkedin](https://www.linkedin.com/in/enzo-cazenave/)<br/>
 📄 My [portfolio](https://enzocazenave.com)<br/>
+📩 My [Email](mailto:encaze@hotmail.com)<br/>
 ⭐️ From [enzocazenave](https://github.com/enzocazenave)
