@@ -16,5 +16,5 @@
 
 💼  [Linkedin](https://www.linkedin.com/in/enzo-cazenave/)<br/>
 📄  [portfolio](https://enzocazenave.com)<br/>
-📩  [Email](mailto:encaze@hotmail.com)<br/>
+📩  [Email](mailto:enzocazenavedev@hotmail.com)<br/>
 ⭐️  [enzocazenave](https://github.com/enzocazenave)
