@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! I'm Enzo Cazenave 👋 </h1>
-<h3 align="center">🚀 Full Stack Developer | Open Source ♥ | Competitive Programmer  🚀</h3>
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
