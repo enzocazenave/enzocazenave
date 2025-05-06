@@ -1,9 +1,5 @@
 <h1 align="center">Hey there! I'm Enzo Cazenave 👋</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzocazenave&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
-
 ## 👨🏻‍💻 About Me
 
 - 🚀 Software Developer with **4+ years of experience**.
