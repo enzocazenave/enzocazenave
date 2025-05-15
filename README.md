@@ -13,7 +13,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/enzo-cazenave/)
 - 🌍 [Portfolio](https://enzocazenave.com/)
-- 📧 [Email](mailto:encaze@hotmail.com)
+- 📧 [Email](mailto:enzocazenavedev@hotmail.com)
 - ⭐️ [GitHub](https://github.com/enzocazenave)
 
 ---
