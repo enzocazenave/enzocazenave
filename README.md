@@ -2,8 +2,8 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🚀 Software Developer with **4+ years of experience**.
-- 🎓 **Informatics Analyst** | **Computer Engineering Student** at **UADE** (32 subjects approved).
+- 🚀 Software Developer with **5+ years of experience**.
+- 🎓 **Informatics Analyst** | **Computer Engineering Student** at **UADE** (37 subjects approved).
 - 🌎 From **Argentina**.
 - 💡 Passionate about **technology, software development**, and **problem-solving**.
 - 🔥 Specialized in **Frontend Development**, but also experienced in **Backend & Full Stack Development**.
