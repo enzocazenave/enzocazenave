@@ -1,1 +1,1 @@
-![Banner](https://media.discordapp.net/attachments/1085284661565083749/1425502610877710516/1743081225479.jpeg?ex=68e7d242&is=68e680c2&hm=ff84298cd2085da91e8d652a58c9e5567257da03f1d73560d18e91dac61446fe&=&fo)
+![Banner](https://github.com/enzocazenave/enzocazenave/blob/main/1743081225479.jpeg?raw=true)
